@@ -3,7 +3,7 @@ package com.fundamentals.java;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Currenct_Exchange {
+public class Current_Exchange {
 
     public Void CurrencyConverter (){
 
@@ -47,6 +47,6 @@ public class Currenct_Exchange {
         System.out.println("thank you for using the Currency Converter");
 
         return null;
-        
+
     }
 }
